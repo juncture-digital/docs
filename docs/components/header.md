@@ -1,4 +1,4 @@
-#ve-header
+# ve-header
 
 The `.ve-header` tag is used to define an optional header that appears at the start of the essay.  The header can be used to:
 
