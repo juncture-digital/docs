@@ -23,7 +23,7 @@ As with the images displayed by the `.ve-image` tag, the banner image used by th
 ## Examples
 
 - A sticky header defined with positional attributes and navigation menu options in a nested Markdown list.
-```html Markdown
+```Markdown preview
 .ve-header "My Essay Title" wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg "A Subtitle" pct:3,23,80,20 center true
     - [Home](/)
     - [About](/about)
