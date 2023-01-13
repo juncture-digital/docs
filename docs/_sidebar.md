@@ -9,9 +9,9 @@
   - [ve-map](/components/map)
   - [ve-media](/components/media)
 
--Tools
+- Tools
 
--How To's
+- How To's
 
--Resources
+- Resources
   - [Background Information](/background)
