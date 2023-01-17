@@ -11,6 +11,7 @@
   - [ve-map](/components/map)
   - [ve-media](/components/media)
   - [ve-mermaid](/components/mermaid)
+  - [ve-meta](/components/meta)
 
 - Styling
   - [General](/styling/general)
