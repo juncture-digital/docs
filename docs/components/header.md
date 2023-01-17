@@ -24,9 +24,28 @@ As with the images displayed by the `.ve-image` tag, the banner image used by th
 
 ## Examples
 
-- A sticky header defined with positional attributes and navigation menu options in a nested Markdown list.
-```markdown
-.ve-header "My Essay Title" wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg "A Subtitle" pct:3,23,80,20 center true
-    - [Home](/)
-    - [About](/about)
-```
+### Basic header
+
+A basic header with a title.
+
+<ve-snippet>
+    .ve-header "Essay Title"
+</ve-snippet>
+
+### Basic header with custom color
+
+This examples shows the use of a basic header with a title and custom background color.  In this example the custom background color `LightCoral` is used.  Any valid HTML color name or hex code may be used for a background color.  HTML supports 140 [standard color names](https://www.w3schools.com/colors/colors_names.asp).  The full range of colors can be at a number of online sites, including  [https://htmlcolorcodes.com](https://htmlcolorcodes.com/)
+
+<ve-snippet>
+    .ve-header "Essay Title" background=LightCoral
+</ve-snippet>
+
+### Sticky header
+
+A sticky header defined with positional attributes and navigation menu options in a nested Markdown list.
+
+<ve-snippet fill>
+    .ve-header "Essay Title" wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg "Essay subtitle" pct:3,23,80,20 center sticky
+        - [Home](/)
+        - [About](/about)
+</ve-snippet>

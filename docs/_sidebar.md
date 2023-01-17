@@ -3,6 +3,7 @@
   - [Overview](/)
   - [Installation](/installation)
   - [Guide](/getting-started/guide)
+  - [Snippets](/getting-started/snippets)
 
 - Viewer Components
   - [ve-header](/components/header)
