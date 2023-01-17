@@ -21,11 +21,11 @@
   - [Cards](/styling/cards)
 
 - Annotation
-  - [Essay annotation using Hypothes.is](/essay-annotation)
-  - [Image annotation](/image-annotation)
+  - [Essay annotation using Hypothes.is](/annotation/essay-annotation)
+  - [Image annotation](/annotation/image-annotation)
 
 - Actions
-  - [Overview](/actions)
+  - [Overview](/actions/overview)
   - [Marking text](/actions/marking-text)
   - [Zoom to](/actions/zoom-to)
   - [Play at](/actions/play-at)
